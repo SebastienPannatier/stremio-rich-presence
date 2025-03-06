@@ -1,0 +1,10 @@
+{
+    "id": "org.stremio.richpresence",
+    "version": "1.0.0",
+    "name": "Rich Presence Addon",
+    "description": "Affiche le film en cours de lecture sur Discord.",
+    "resources": ["stream"],
+    "types": ["movie"],
+    "catalogs": [],
+    "idPrefixes": ["tt"]
+  }
